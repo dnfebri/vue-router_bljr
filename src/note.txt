@@ -1,0 +1,1 @@
+main.js = tempan import modul-modul tambahan setelah di intall dari npm/yarn
